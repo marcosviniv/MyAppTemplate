@@ -59,31 +59,29 @@ MyAppTemplate/
 	3.	Run the project (Cmd + R).
 	4.	Start building your features inside the Features/ directory.
 
-🛠 Customization
+## 🛠 Customization
 
 You can:
 	•	Add new tabs by editing Tab.swift
 	•	Add new shared components in Modules/TabBar/Shared
 	•	Extend the architecture by adding new modules inside Modules/ or Features/
 
-🌍 Localization
+## 🌍 Localization
 
 To localize your app, add .strings files inside Resources/Localization/ for each supported language.
 
-📸 Screenshots
+## 📸 Screenshots
 
 Coming soon
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork and customize it for your own use. Pull requests and improvements are welcome!
 
-📄 License
+## 📄 License
 
 MIT License
 
 ⸻
 
 Made with ❤️ by Marcos Vinícius Vieira
-
----
