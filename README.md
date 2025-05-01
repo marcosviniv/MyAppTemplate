@@ -12,33 +12,6 @@ Perfect for developers who want a clean, consistent, and reusable starting point
 - ✅ Clean UI with reusable components  
 - ✅ Easy to extend with new features
 
-MyAppTemplate/
-├── Modules/
-│   └── TabBar/
-│       ├── Model/
-│       │   └── Tab.swift
-│       ├── ViewModel/
-│       │   └── TabBarViewModel.swift
-│       ├── View/
-│       │   └── TabBarView.swift
-│       ├── Shared/
-│       │   ├── TabButton.swift
-│       │   └── BlurView.swift
-│       └── TabBarModule.swift
-├── Features/
-│   ├── Dashboard/
-│   └── Perfil/
-├── Core/
-│   ├── Network/
-│   ├── Extensions/
-│   └── Utils/
-├── Resources/
-│   ├── Assets.xcassets
-│   └── Localization/
-├── SupportingFiles/
-│   └── LaunchScreen.storyboard (or .swift)
-└── App.swift
-
 ## 🧱 Technologies
 
 - Swift
